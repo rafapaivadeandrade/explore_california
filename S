@@ -14,7 +14,7 @@ warning: LF will be replaced by CRLF in support.html.
 The file will have its original line endings in your working directory
 warning: LF will be replaced by CRLF in tours.html.
 The file will have its original line endings in your working directory
-warning: LF will be replaced by CRLF in tours/tour_detail_backpack.html.
+warning: LF will be replaced by CRLF in tours/tour_detail_backpack_cal.html.
 The file will have its original line endings in your working directory
 warning: LF will be replaced by CRLF in tours/tour_detail_bigsur.html.
 The file will have its original line endings in your working directory
@@ -140,10 +140,10 @@ The file will have its original line endings in your working directory
          </div>[m
        </div>[m
      </div>[m
-[1mdiff --git a/tours/tour_detail_backpack.html b/tours/tour_detail_backpack.html[m
+[1mdiff --git a/tours/tour_detail_backpack_cal.html b/tours/tour_detail_backpack_cal.html[m
 [1mindex 1d22bf6..df51a6f 100644[m
-[1m--- a/tours/tour_detail_backpack.html[m
-[1m+++ b/tours/tour_detail_backpack.html[m
+[1m--- a/tours/tour_detail_backpack_cal.html[m
+[1m+++ b/tours/tour_detail_backpack_cal.html[m
 [36m@@ -163,7 +163,7 @@[m
            <h2>Explore California</h2>[m
            <p>5605 Nota Street<br />[m
